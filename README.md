@@ -15,7 +15,7 @@
 
 ### 👋 HI there! Welcome!
 Hello! I'm **Muhammad Rafi Arsyad** from Electronic Engineering Polytechnic Institute of Surabaya, taking BS Informatics Engineering. 👍  
-I have a huge interest in Cyber Security and BlockChain. Currently studying Cyber Security and aiming to be a Cyber Security Expert.  
+I have a huge interest in Cyber Security and BlockChain. Currently studying Cyber Security and aiming to be a Blockchain Security Engineer.  
 
 **Current Roles:**  
 - Microsoft Learn Student Ambassador  
