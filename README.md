@@ -1,38 +1,85 @@
-# Mr. Rafi Arsyad
-[![GitHub Follow](https://img.shields.io/github/followers/DiwanParker?label=Follow&style=social)](https://github.com/DiwanParker)  
-`diwanparker`
+# 👋 Halo, Saya DiwanParker!
 
-**Lv1 Adventurer** 🌤  
-📍 Indonesia
-🔗 [Personal Website](https://nikxherrera.github.io/)  
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-## Achievements
-- 🏆 Small feedback
-- ✨ **Highlights**  
-  Developed Program Member
+<div align="center">
+  <a href="https://www.linkedin.com/in/nama-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/nama_twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DiwanParker&style=flat-square&color=blue" alt=""/>
+</div>
 
 ---
 
-### 👋 HI there! Welcome!
-Hello! I'm **Muhammad Rafi Arsyad** from Electronic Engineering Polytechnic Institute of Surabaya, taking BS Informatics Engineering. 👍  
-I have a huge interest in Cyber Security and BlockChain. Currently studying Cyber Security and aiming to be a Blockchain Security Engineer.  
+### 👨‍💻 Tentang Saya
 
-**Current Roles:**  
-- Microsoft Learn Student Ambassador  
-- Community Manager at Surhath Hub  
-- Volunteer Web Designer at UDPH  
+Saya adalah seorang [posisi/pekerjaan Anda] yang berfokus pada [bidang/teknologi utama Anda]. Dengan pengalaman [jumlah tahun] tahun di industri, saya telah mengembangkan keahlian dalam memecahkan masalah kompleks dan menghasilkan solusi yang efektif.
 
-I love joining communities and competitions that involve creating solutions for society 😊  
+- 🔭 Saat ini saya sedang bekerja pada [proyek Anda saat ini]
+- 🌱 Sedang mempelajari [teknologi/keterampilan baru]
+- 👯 Mencari kolaborasi dalam [bidang minat]
+- 💬 Tanyakan kepada saya tentang [keahlian utama Anda]
+- ⚡ Fakta menarik: [fakta menarik tentang Anda]
 
-**Skills:**  
-Community Management | Mobile & Web Development | Project Management  
+---
 
-**Currently:**  
-- 🔨 *Working on my GitHub profile*  
-- 📚 *Learning Next.js*  
-- 🌱 *Promoting Sustainability*  
+### 🛠 Bahasa dan Alat
 
-**Connect with me:**  
-[![X](https://img.shields.io/badge/Twitter-@nickberries-1DA1F2?logo=twitter)](https://twitter.com/nickberries)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rafi_Arsyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/muhammad-rafi-arsyad)  
-[![Instagram](https://img.shields.io/badge/Instagram-@_arsade_-E4405F?logo=instagram)](https://instagram.com/_arsade_)  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
+
+---
+
+### 🔥 Proyek Unggulan
+
+<div align="center">
+  <a href="https://github.com/DiwanParker/nama-proyek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiwanParker&repo=nama-proyek&theme=radical" />
+  </a>
+  <a href="https://github.com/DiwanParker/nama-proyek-lain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DiwanParker&repo=nama-proyek-lain&theme=radical" />
+  </a>
+</div>
+
+---
+
+### 📊 Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiwanParker&show_icons=true&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiwanParker&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiwanParker&layout=compact&theme=radical" />
+</div>
+
+---
+
+### 📫 Cara Menghubungi Saya
+
+- Email: [alamat email Anda]
+- LinkedIn: [profil LinkedIn Anda]
+- Twitter: [akun Twitter Anda]
+- Website: [website pribadi Anda]
+
+---
+
+⭐️ Dari [DiwanParker](https://github.com/DiwanParker)
