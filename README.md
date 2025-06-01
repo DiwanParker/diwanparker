@@ -34,5 +34,5 @@ Community Management | Mobile & Web Development | Project Management
 
 **Connect with me:**  
 [![X](https://img.shields.io/badge/Twitter-@nickberries-1DA1F2?logo=twitter)](https://twitter.com/nickberries)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad Rafi Arsyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/muhammad-rafi-arsyad)  
-[![Instagram](https://img.shields.io/badge/Instagram-@nickberries-E4405F?logo=instagram)](https://instagram.com/_arsade_)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Rafi_Arsyad-0077B5?logo=linkedin)](https://www.linkedin.com/in/muhammad-rafi-arsyad)  
+[![Instagram](https://img.shields.io/badge/Instagram-@_arsade_-E4405F?logo=instagram)](https://instagram.com/_arsade_)  
