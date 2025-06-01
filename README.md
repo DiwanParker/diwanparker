@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a student at the **Polytechnic of Electronics Surabaya** studying cybersecurity and blockchain technology. My goal is to become a skilled blockchain security engineer, combining my passion for both security and distributed systems.
+I'm a student at the **Electronic Engineering Polytechnic Institute of Surabaya** studying cybersecurity and blockchain technology. My goal is to become a skilled blockchain security engineer, combining my passion for both security and distributed systems.
 
 - 🔭 I'm currently working on building my blockchain security skills
 - 🌱 I'm learning about smart contract vulnerabilities and audit techniques
