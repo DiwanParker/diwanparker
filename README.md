@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Rafi Arsyad (DiwanParker) 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=440&lines=Cybersecurity+Student;Blockchain+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🧠 About Me
