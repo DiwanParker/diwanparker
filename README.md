@@ -1,16 +1,38 @@
-## Hi there 👋
+# Ma. Nikka Herrera
+[![GitHub Follow](https://img.shields.io/github/followers/DiwanParker?label=Follow&style=social)](https://github.com/DiwanParker)  
+`diwanparker`
 
-<!--
-**DiwanParker/diwanparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lv1 Adventurer** 🌤  
+📍 Indonesia
+🔗 [Personal Website](https://nikxherrera.github.io/)  
 
-Here are some ideas to get you started:
+## Achievements
+- 🏆 Small feedback
+- ✨ **Highlights**  
+  Developed Program Member
 
-- 🔭 I’m currently working on Computer Science
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 HI there! Welcome!
+Hello! I'm **Muhammad Rafi Arsyad** from Electronic Engineering Polytechnic Institute of Surabaya, taking BS Informatics Engineering. 👍  
+I have a huge interest in Cyber Security and BlockChain. Currently studying Cyber Security and aiming to be a Cyber Security Expert.  
+
+**Current Roles:**  
+- Microsoft Learn Student Ambassador  
+- Community Manager at Surhath Hub  
+- Volunteer Web Designer at UDPH  
+
+I love joining communities and competitions that involve creating solutions for society 😊  
+
+**Skills:**  
+Community Management | Mobile & Web Development | Project Management  
+
+**Currently:**  
+- 🔨 *Working on my GitHub profile*  
+- 📚 *Learning Next.js*  
+- 🌱 *Promoting Sustainability*  
+
+**Connect with me:**  
+[![X](https://img.shields.io/badge/Twitter-@nickberries-1DA1F2?logo=twitter)](https://twitter.com/nickberries)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikka_Herrera-0077B5?logo=linkedin)](https://www.linkedin.com/in/muhammad-rafi-arsyad)  
+[![Instagram](https://img.shields.io/badge/Instagram-@nickberries-E4405F?logo=instagram)](https://instagram.com/_arsade_)  
